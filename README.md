@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` file for your Django RESTful API project that manages books and authors. It covers all essential sections to provide clarity on what the project is about, how to set it up, and how to use it.
-
-```markdown
 # Library Management API
 
 This project is a Django RESTful API for managing books and authors, with user authentication (JWT), search functionality, and a recommendation system for users' favorite books.
@@ -179,7 +176,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
 
 ### Key Sections:
 - **Features**: Lists API capabilities.
